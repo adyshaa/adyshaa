@@ -91,7 +91,6 @@ test('Unittest', async ({ page }) => {
     await page.close();
 });
 
-
                              // === Functions Region ===
 
 // Sign in to the tst8 portal and verify element method
